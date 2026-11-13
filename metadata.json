@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix DEX",
+  "description": "Escáner DexScreener de tokens volátiles menores a 24h con análisis de movimientos de 5 horas y cartera virtual de $1,000,000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
